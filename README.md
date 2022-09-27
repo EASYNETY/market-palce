@@ -4,7 +4,7 @@
 
 
 
-### <h2 align="center"> ⚡️⚡️⚡️ &nbsp; [Kiwi Shop](https://kiwi-shop.herokuapp.com/) ⚡️⚡️⚡️ </h2>
+### <h2 align="center"> ⚡️⚡️⚡️ &nbsp; [MArket place](https://www.linkedin.com/in/israelade/) ⚡️⚡️⚡️ </h2>
 
 ## 📜 &nbsp; Table of contents
 
@@ -122,7 +122,7 @@ $ npm run dev (for both client and server side)
 
 # Author
 
-👤 &nbsp; **Adeyemi Tomiwa**
+👤 &nbsp; **Adeyeye Israel**
 
 - Twitter: [@hackcat_29](https://twitter.com/hackcat_29)
 - Github: [@UncleTom29](https://github.com/UncleTom29)
